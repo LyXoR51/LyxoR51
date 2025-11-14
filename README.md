@@ -37,6 +37,3 @@ AI-driven platform for real estate price prediction with a **full MLOps pipeline
 📝 [GitHub Repo](https://github.com/LyXoR51/learning_journey) 
 
 A personal repository documenting my **learning journey across multiple technologies**, starting with **Python** and **SQL**, with hands-on exercises, projects, and experiments.
-
-
-Perfect! Let’s make a **concise, polished version** of your MLflow repo description that emphasizes **configurations, deployment options, and MLOps experience** while keeping the bold style consistent with your other projects:
