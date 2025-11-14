@@ -5,7 +5,7 @@
   I’m now developing my skills through hands-on projects, exploring data analysis, machine learning, and modern data engineering tools.
 </p>
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">Connect with me on LinkedIn</a>
+  🔗 <a href="https://www.linkedin.com/in/florent-proust-49334a90/" target="_blank">Connect with me on LinkedIn</a>
 </p>
 
 ---
