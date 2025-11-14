@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Florent Proust</h1>
 
-<!--
-**LyXoR51/LyxoR51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  After 10 years in technical roles across the cosmetics, pharmaceutical, and automotive industries, I discovered a strong passion for data. I’ve since chosen to focus my career on data science and engineering to build impactful, data-driven solutions.<br><br>
+  I’m now developing my skills through hands-on projects, exploring data analysis, machine learning, and modern data engineering tools.
+</p>
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">Connect with me on LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Est’Immo – Real Estate Price Estimation Platform - MLOps
+
+🚀 [Live Demo](https://lyx51-housing-price-estimator-streamlit.hf.space) • 📝 [GitHub Repo](https://github.com/LyXoR51/Housing_price_estimator) • 🎥 [Video](https://share.vidyard.com/watch/jfmZxQUhsKxLb5x3fkfE2H)
+
+AI-driven platform for real estate price prediction with a **full MLOps pipeline**: training, CI/CD, monitoring, and deployment. Built with **FastAPI, Streamlit, MLflow, Airflow, Docker, Jenkins**.
+
+### Anime Recommendation Engine - Machine Learning
+
+🚀 [Live Demo](https://lyx51-anime-recommandation-streamlit.hf.space) • 📝 [GitHub Repo](https://github.com/LyXoR51/Anime_recommandation_engine)
+
+**AI-powered anime recommendation platform** leveraging **LLMs**, **semantic embeddings**, and **sentiment analysis** to deliver **personalized suggestions**. Built with **Transformers**, **Streamlit**, and **Docker** for reproducibility and interactive exploration.
+
+## My Learning & Deployment Journey
+
+### MLflow Server Deployment
+
+🌐 [Live Server](https://lyx51-mlflow-server.hf.space) • 📝 [GitHub Repo](https://github.com/LyXoR51/mlflow_server) 
+
+Deployed an **MLflow server** to manage experiment tracking, model versioning, and logging. Hands-on MLOps experience with containerized deployment and production-ready configuration.
+
+### Personal Tech Exploration
+📝 [GitHub Repo](https://github.com/LyXoR51/learning_journey) 
+
+A personal repository documenting my **learning journey across multiple technologies**, starting with **Python** and **SQL**, with hands-on exercises, projects, and experiments.
