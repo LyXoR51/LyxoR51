@@ -30,9 +30,13 @@ AI-driven platform for real estate price prediction with a **full MLOps pipeline
 
 🌐 [Live Server](https://lyx51-mlflow-server.hf.space) • 📝 [GitHub Repo](https://github.com/LyXoR51/mlflow_server) 
 
-Deployed an **MLflow server** to manage experiment tracking, model versioning, and logging. Hands-on MLOps experience with containerized deployment and production-ready configuration.
+**Base repository providing multiple configurations** to deploy and test an **MLflow tracking server** locally, on **Hugging Face Spaces**, or via **remote endpoints**. Demonstrates hands-on **MLOps experience**, including containerized deployment and production-ready setups.
+
 
 ### Personal Tech Exploration
 📝 [GitHub Repo](https://github.com/LyXoR51/learning_journey) 
 
 A personal repository documenting my **learning journey across multiple technologies**, starting with **Python** and **SQL**, with hands-on exercises, projects, and experiments.
+
+
+Perfect! Let’s make a **concise, polished version** of your MLflow repo description that emphasizes **configurations, deployment options, and MLOps experience** while keeping the bold style consistent with your other projects:
