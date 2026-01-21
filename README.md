@@ -34,6 +34,7 @@ AI-driven platform for real estate price prediction with a **full MLOps pipeline
 
 
 ### Personal Tech Exploration
+
 📝 [GitHub Repo](https://github.com/LyXoR51/learning_journey) 
 
 A personal repository documenting my **learning journey across multiple technologies**, starting with **Python** and **SQL**, with hands-on exercises, projects, and experiments.
