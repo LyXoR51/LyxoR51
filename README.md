@@ -18,11 +18,22 @@
 
 AI-driven platform for real estate price prediction with a **full MLOps pipeline**: training, CI/CD, monitoring, and deployment. Built with **FastAPI, Streamlit, MLflow, Airflow, Docker, Jenkins**.
 
+
+### Real-time Credit Card Fraud Detection – MLOps Platform
+
+🚀 [Live Demo](https://lyx51-fraud-detection-streamlit.hf.space/) • 📝 [GitHub Repo](https://github.com/LyXoR51/projet_fraud_detection_credit_card) • 🎥 [Video](https://share.vidyard.com/watch/2mLvhKeqyFrzDuSSDJt42s)
+
+
+AI-driven **credit card fraud detection system** featuring an **end-to-end MLOps pipeline** for data ingestion, validation, batch prediction, and alerting.
+Built with **Airflow, MLflow, FastAPI, Streamlit, PostgreSQL, Docker**, and **XGBoost**, with cloud deployment on **Hugging Face, NeonDB, and AWS S3**.
+
+
 ### Anime Recommendation Engine - Machine Learning
 
 🚀 [Live Demo](https://lyx51-anime-recommandation-streamlit.hf.space) • 📝 [GitHub Repo](https://github.com/LyXoR51/Anime_recommandation_engine)
 
 **AI-powered anime recommendation platform** leveraging **LLMs**, **semantic embeddings**, and **sentiment analysis** to deliver **personalized suggestions**. Built with **Transformers**, **Streamlit**, and **Docker** for reproducibility and interactive exploration.
+
 
 ## My Learning & Deployment Journey
 
