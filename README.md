@@ -16,11 +16,11 @@
 
 ## Projects
 
-### Bob – Multi-Agent AI Assistant (LLM Engineering)
+### Bob – Multi-Agent AI Maintenance Assistant (LLM Engineering)
 
 🚀 [Live Demo](https://maintenance-ai.fp-data-ia.fr/) • 📝 [GitHub Repo](https://github.com/LyXoR51/bob-maintenance-assistant)
 
-Personal **AI assistant for vehicle maintenance**, self-hosted and used in production. A classifier routes each question to a specialized agent: a **SQL agent** over the maintenance history (PostgreSQL, read-only role) or a **RAG agent** over technical manuals (Qdrant, FastEmbed). A **deterministic response guard** checks dates, mileages and types against the raw tool results to catch hallucinations, and a small **Ministral 3B** model is kept reliable through tool design rather than model size. Built with **LangChain, Mistral API, Streamlit, PostgreSQL, Qdrant, Docker, Caddy**, with LangSmith tracing.
+Personal **AI assistant for vehicle maintenance**, hosted on my VPS. A classifier routes each question to a specialized agent: a **SQL agent** over the maintenance history (PostgreSQL, read-only role) or a **RAG agent** over technical manuals (Qdrant, FastEmbed). A **deterministic response guard** checks dates, mileages and types against the raw tool results to catch hallucinations, and a small **Ministral 3B** model is kept reliable through tool design rather than model size. Built with **LangChain, Mistral API, Streamlit, PostgreSQL, Qdrant, Docker, Caddy**, with LangSmith tracing.
 
 
 ### Est’Immo – Real Estate Price Estimation Platform - MLOps
